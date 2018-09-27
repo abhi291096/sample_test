@@ -1,0 +1,23 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "run npm test",
+  "main": "testindex.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "devDependencies":{
+    "selenium-webdriver": "3.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi291096/myhtml.git"
+  },
+  "author": "abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhi291096/myhtml/issues"
+  },
+  "homepage": "https://github.com/abhi291096/myhtml#readme"
+
+}
