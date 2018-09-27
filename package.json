@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhi291096/myhtml.git"
+    "url": "git+https://github.com/abhi291096/sample_test.git"
   },
   "author": "abhishek",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abhi291096/myhtml/issues"
+    "url": "https://github.com/abhi291096/sample_test/issues"
   },
-  "homepage": "https://github.com/abhi291096/myhtml#readme"
+  "homepage": "https://github.com/abhi291096/sample_test#readme"
 
 }
