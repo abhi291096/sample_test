@@ -21,7 +21,7 @@ driver.get('http://fee09f1f.ngrok.io');
 
 driver.findElement({xpath: '//body/p'}).getText().then( function(ans){
 
-	 if(assert.equal("Hello World",ans) == undefined)
+	 if(assert.equal("Hello World!!",ans) == undefined)
   {
     console.log("Success");
   }
